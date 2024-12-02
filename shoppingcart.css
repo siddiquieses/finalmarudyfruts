@@ -1,0 +1,11 @@
+.shoppingcart{
+    text-align: center;
+    padding-top: 180px;
+    color: #b1702a;
+    font-size: x-large;
+    font-weight: bold;
+    padding-bottom: 90px;
+}
+#arrowicon:hover{
+    color: rgb(173, 103, 22);
+}

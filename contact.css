@@ -1,0 +1,92 @@
+.logo{
+    width: 98px;
+    margin-left: 10px;
+}
+#navbarSupportedContent{
+  padding-left: 100px;
+  font-size:medium;
+  font-weight:bold;
+}  
+.nav-item a:hover{
+  background-color:#E4C087;
+  border-radius: 5px;
+  transition: 0.5s;
+}
+li{
+  padding-left: 10px;
+}
+.dropdown-item:hover{
+  background-color:#F8EDE3;
+}
+i{
+    padding-right: 10px;
+    padding-top: 13px;
+    }
+.discount{
+        /* text-align: center; */
+        margin-top: 5px;
+        font-family:cursive;
+        color: #a37f1d;
+        margin-bottom: 0px; 
+        font-size:20px;
+        font-weight:bold;
+        }
+ h2{
+        text-align: center;
+        background-color:#E5BA73;
+        margin-top: 10px;
+        height: 150px;
+        padding-top: 50px;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size: larger;
+        }
+        .cardbutton{
+          text-decoration: none;
+          text-align: center;
+          margin-top: 30px;
+          margin-bottom: 30px;
+          border-radius: 5px;
+          border-color: rgb(151, 90, 49);
+          height: 50px;
+          width: 190px;
+          padding-bottom: 20px;
+          padding-right: 20px;
+          font-size: large;
+          font-weight: 400;
+          color: rgb(151, 90, 49);
+          background-color: white;
+          font-weight: bold;
+          }
+   .cardbutton:hover{
+          background-color:#5c3205;
+          color: rgb(252, 252, 247);
+          transition:0.5s
+          }
+    #carticon{
+          padding-right: 10px;
+       }  
+       #contacticon{
+        color:#794208 ;
+        padding-right: 20px;
+    }                          
+#map-icon{
+    font-size: 60px;
+    padding-left: 48%;
+    color:rgb(179, 130, 58);
+    padding-bottom: 60px;
+}
+.btn-btn-{
+  
+  border-radius: 5px;
+  width: 120px;
+  height: 40px;
+  font-size: large;
+  font-weight: 400;
+  color: rgb(167, 97, 28);
+ background-color: rgb(255, 253, 249);
+}
+.btn-btn-:hover{
+  background-color:#88541d;
+  color: rgb(252, 252, 247);
+  transition:0.5s
+}

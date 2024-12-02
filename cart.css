@@ -1,0 +1,221 @@
+.logo{
+    width: 98px;
+    margin-left: 10px;
+}
+#navbarSupportedContent{
+  padding-left: 100px;
+  font-size:medium;
+  font-weight:bold;
+}  
+.nav-item a:hover{
+  background-color:#E4C087;
+  border-radius: 5px;
+  transition: 0.5s;
+}
+li{
+  padding-left: 10px;
+}
+.dropdown-item:hover{
+  background-color:#F8EDE3;
+}
+i{
+    padding-right: 10px;
+    padding-top: 13px;
+    }
+.discount{
+        margin-top: 5px;
+        font-family:cursive;
+        color: #a37f1d;
+        margin-bottom: 0px; 
+        font-size:20px;
+        font-weight:bold;
+        }
+ h2{
+        text-align: center;
+        background-color:#E5BA73;
+        margin-top: 10px;
+        height: 150px;
+        padding-top: 50px;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        }
+        .cardbutton{
+          text-decoration: none;
+          text-align: center;
+          margin-top: 30px;
+          margin-bottom: 30px;
+          border-radius: 5px;
+          border-color: rgb(151, 90, 49);
+          height: 50px;
+          width: 190px;
+          padding-bottom: 20px;
+          padding-right: 20px;
+          font-size: large;
+          font-weight: 400;
+          color: rgb(151, 90, 49);
+          background-color: white;
+          font-weight: bold;
+          }
+   .cardbutton:hover{
+          background-color:#884b0a;
+          color: rgb(252, 252, 247);
+          transition:0.5s
+          }
+    #carticon{
+          padding-right: 10px;
+       }                          
+   /* * <----MAHA IZHAR----> */
+   .product-image {
+    max-width: 280px;
+    height: auto;
+    margin: 20px auto;
+  }
+  .product-image img {
+    width: 290px;
+    height: 350px;
+   
+    border-radius: 10px;
+    padding-left: 0px;
+  }
+          
+          .product-details {
+            padding-left: 80px;
+          }
+          .container1{
+            margin-right: 60px;
+          }
+          .price {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 30px;
+          }
+          
+          .quantity {
+            margin-bottom: 20px;            
+          }
+          #quantity{
+            border-radius: 15px;
+            width: 100px;
+            border-color: #997205;
+            background-color: #fffffd;
+            box-shadow: 2px 8px 10px rgb(158, 152, 152);
+            text-align: center;
+            height: 35px;
+          }
+          #plus{
+          border-radius: 5px;
+          border-color: #997205;
+          background-color: #f3ead4;
+          box-shadow: 2px 8px 10px rgb(158, 152, 152);
+          text-align: center;
+          }
+          #minus{
+           border-radius: 5px;
+           border-color: #997205;
+          background-color: #f3ead4;
+          box-shadow: 2px 8px 10px rgb(153, 144, 144);
+          text-align: center;
+          }
+          .dropdown li{
+           background-color: #4e4d4b;
+          }
+          .btn-btn-{
+            margin-top: 10px;
+            background-color: #f5e2b0;
+            height: 40px;
+            width: 155px;
+            border-radius: 5px;
+            box-shadow: 3px 3px 6px 3px rgb(206, 197, 197);
+          }
+          .add-to-cart {
+            padding: 10px 20px;
+            font-size: 18px;
+            border-radius: 5px;
+          }
+          h3{
+            padding-top: 40px;
+            color: #997205;
+            padding-bottom: 20px;
+           }
+          
+  /* <-----ABOUT US-----> */
+          .about{
+            text-align: center;
+            background-color:#E5BA73;
+            margin-top: 0px;
+            height: 150px;
+            padding-top: 50px;
+            font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            font-size: xx-large;
+         }
+         #abouticon{
+          padding-right: 20px;
+          color: #794208;
+         }
+         .story{
+         font-size: xx-large;
+          padding-left: 20px;
+          color: #9e630a;
+          font-weight: bolder;
+          font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+          
+         }
+       .cardd1{
+        padding-top: 10px;
+        margin-top: 70px;
+       }
+       .para{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size:large;
+       }  
+       .tastegood{
+        text-align: center;
+        padding-top: 140px;
+        color: #997205;
+        padding-bottom: 40px;
+       }
+       .card-text{
+        font-family:Arial, Helvetica, sans-serif;
+        font-size: large;
+      
+       }
+       .shopnow{
+        justify-content: center;
+       text-align: center;
+       margin-left: 130px;
+       margin-top: 20px;
+       margin-bottom: 5px;
+       border-radius: 5px;
+       height: 50px;
+       width: 140px;
+       border-color: #794208;
+       color: #79360a;
+       background: white;
+       font-weight: bold;
+       }
+   .shopnow:hover{
+       background-color:#6b4418;
+       color: rgb(252, 252, 247);     
+       transition:0.5s
+   }
+   #aboutcard{
+    margin-top: 90px;
+    margin-bottom: 40px;
+   }
+  .card-title{
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+    font-size: x-large;
+    color: #6b4418;
+  }
+  .card-text{
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+  }
+  #addicon{
+    color:#794208 ;
+    padding-right: 20px;
+  }
+  /* <-----ABOUT US-----> */
+  /* <----MAHA IZHAR----> */
+    

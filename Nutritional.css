@@ -1,0 +1,114 @@
+
+.logo{
+    width: 98px;
+    margin-left: 10px;
+}
+#navbarSupportedContent{
+  padding-left: 100px;
+  font-size:medium;
+  font-weight:bold;
+}  
+.nav-item a:hover{
+  background-color:#E4C087;
+  border-radius: 5px;
+  transition: 0.5s;
+}
+li{
+  padding-left: 10px;
+}
+.dropdown-item:hover{
+  background-color:#F8EDE3;
+}
+i{
+    padding-right: 10px;
+    padding-top: 13px;
+    }
+.discount{
+        margin-top: 5px;
+        font-family:cursive;
+        color: #a37f1d;
+        margin-bottom: 0px; 
+        font-size:20px;
+        font-weight:bold;
+        }
+ h2{
+     text-align: center;
+     background-color:#E5BA73;
+     margin-top: 0px;
+     height: 150px;
+     padding-top: 50px;
+     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }       
+
+  /* <----SAHIBA----> */
+.info{
+    margin-top: 2px;
+}
+.h1{
+    color:rgb(172, 115, 11);
+    text-align: center;
+    padding-top: 2px;padding-block-end: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#container{
+    padding-top: 10px;
+    padding-bottom: 70px;
+}
+.card-title{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: brown;
+    font-weight: bold;
+}
+.card-text{
+    font-weight: 600;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    text-align: center;
+}
+.card-body{
+    height: 470px;
+}
+.para{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 500;
+}
+
+.heading5{
+    text-align: center;
+    color:brown;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.img-fluid{
+    position: relative;
+    height: 300px;
+    width: 100%;     
+    height: 200px;     
+    object-fit: cover; 
+}
+.card {
+    border-radius: 50px;
+    overflow: hidden;
+    box-shadow: 0px 2px 6px rgba(24, 23, 20, 0.171);
+    transition: transform 0.3s;
+}
+.card:hover {
+    transform: scale(1.05);
+}
+
+.card-img-top {
+    width: 100%;       
+    height: 200px;    
+    object-fit: cover; 
+}
+#frontpic{
+    padding-bottom: 30px;
+    margin-bottom: 60px;
+    height: 540px;
+}
+#infoicon{
+   color: #794208; 
+   padding-right: 10px;
+}
+/* <----SAHIBA----> */
